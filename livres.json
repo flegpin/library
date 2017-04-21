@@ -1,0 +1,247 @@
+{ 
+"records":[
+	{
+		"titre":"How to Build the Leadership Powered Company",
+		"image":"img/01.jpeg",
+		"description":"An updated and revised version of the bestselling ",
+		"auteur":"Ram Charan",
+		"edition":"Jossey-Bass, 2 edition",
+		"anneEdition":"2010-12-21",
+		"categorie":"Affaires",
+		"isbn":"470894563"
+	}, 
+	{
+		"titre":"The Talent Masters",
+		"image":"img/02.jpeg",
+		"description":"The talent masters do. They put people before numbers.",
+		"auteur":"Bill Conaty",
+		"edition":"Crown Business",
+		"anneEdition":"2010-11-09",
+		"categorie":"Affaires",
+		"isbn":"307460266"
+	}, 
+	{
+		"titre":"Retooling HR",
+		"image":"img/03.jpeg",
+		"description":"HR professionals have made major strides toward be",
+		"auteur":"John W. Boudreau",
+		"edition":"Harvard Business Press",
+		"anneEdition":"2010-07-02",
+		"categorie":"Affaires",
+		"isbn":"142213007X"
+	},
+	{
+		"titre":"One Page Talent Management: Eliminating Complexity",
+		"image":"img/04.jpeg",
+		"description":"Of the new business books that came out in 2010, t",
+		"auteur":"Marc Effron",
+		"edition":"Harvard Business Press",
+		"anneEdition":"2015-09-03",
+		"categorie":"Affaires",
+		"isbn":"1422166732"
+	},
+	{
+		"titre":"Strengthsfinder 2.0",
+		"image":"img/05.jpeg",
+		"description":"This book has a unique code that lets you do a 30-",
+		"auteur":"Tom Rath",
+		"edition":"Gallup; 1 edition",
+		"anneEdition":"2012-01-12",
+		"categorie":"Informatique",
+		"isbn":"159562015X"
+	}, 
+	{
+		"titre":"The Five Essential Elements",
+		"image":"img/06.jpeg",
+		"description":"This title shows the five most important elements ",
+		"auteur":"James K. Harter",
+		"edition":"Gallup Press; First Edition edition",
+		"anneEdition":"2011-02-08",
+		"categorie":"Informatique",
+		"isbn":"1595620400"
+	}, 
+	{
+		"titre":"Theory and Practice",
+		"image":"img/07.jpeg",
+		"description":"Adopted at more than 800 colleges and universities",
+		"auteur":"Peter G. Northouse",
+		"edition":"Sage Publications; 5 edition",
+		"anneEdition":"2015-10-09",
+		"categorie":"Informatique",
+		"isbn":"1412974887"
+	},
+	{
+		"titre":"Steve Jobs",
+		"image":"img/08.jpeg",
+		"description":"Walter Isaacson has written a riveting story of th",
+		"auteur":"Walter Isaacson",
+		"edition":"Simon & Schuster",
+		"anneEdition":"2011-11-24",
+		"categorie":"Technologie",
+		"isbn":"1451648537"
+	},
+	
+	{
+		"titre":"The Innovation Secret",
+		"image":"img/09.jpeg",
+		"description":"You might want to take a look at how someone creates",
+		"auteur":"Carmine Gallo",
+		"edition":"McGraw-Hill; 1 edition",
+		"anneEdition":"2015-08-30",
+		"categorie":"Technologie",
+		"isbn":"007174875X"
+	}, 
+	{
+		"titre":"The Photoshop Elements 10 Book for Digital Photogr",
+		"image":"img/10.jpeg",
+		"description":"This book breaks new ground by doing something for ",
+		"auteur":"Matt Kloskowski",
+		"edition":"Peachpit Press; 1 edition",
+		"anneEdition":"2011-12-01",
+		"categorie":"Technologie",
+		"isbn":"032180824X"
+	}, 
+	{
+		"titre":"Teach Yourself VISUALLY Photoshop Elements 10",
+		"image":"img/11.jpeg",
+		"description":"Packed with step-by-step instructions illustrated ",
+		"auteur":"Mike Wooldridge",
+		"edition":"Visual",
+		"anneEdition":"2011-11-18",
+		"categorie":"Technologie",
+		"isbn":"1118151739"
+	},
+	{
+		"titre":"Creating Digital Art with Adobe Photoshop Elements",
+		"image":"img/12.jpeg",
+		"description":"Now imagine expressing that dream artistically.",
+		"auteur":"Susan Tuttle",
+		"edition":"North Light Books; Pap/Com edition",
+		"anneEdition":"2011-08-20",
+		"categorie":"Technologie",
+		"isbn":"160061454X"
+	},
+	{
+		"titre":"Exhibition 36: Mixed Media Demonstrations + Explor",
+		"image":"img/13.jpeg",
+		"description":"Come inside for an amazing virtual art exhibit fea",
+		"auteur":"Susan Tuttle",
+		"edition":"North Light Books; Original edition",
+		"anneEdition":"2015-10-15",
+		"categorie":"Informatique",
+		"isbn":"1600611044"
+	}, 
+	{
+		"titre":"Mixed-Media Techniques",
+		"image":"img/14.jpeg",
+		"description":"Return to the origin of the earth and discover a n",
+		"auteur":"Stephanie Lee",
+		"edition":"North Light Books",
+		"anneEdition":"2015-09-24",
+		"categorie":"Informatique",
+		"isbn":"1440308152"
+	}, 
+	{
+		"titre":"50 Inspirational Projects",
+		"image":"img/15.jpeg",
+		"description":"the Cormen et al book is the best textbook that I ",
+		"auteur":"Rolina van Vliet",
+		"edition":"Search Press",
+		"anneEdition":"2015-08-20",
+		"categorie":"Informatique",
+		"isbn":"1844487156"
+	},
+	{
+		"titre":"Introduction to Algorithms",
+		"image":"img/16.jpeg",
+		"description":"Introduction to Algorithms, the 'bible' of the fie",
+		"auteur":"Thomas H. Cormen",
+		"edition":"The MIT Press; third edition edition",
+		"anneEdition":"2015-07-01",
+		"categorie":"Informatique",
+		"isbn":"262033844"
+	},
+	{
+		"titre":"Programming Pearls",
+		"image":"img/17.jpeg",
+		"description":"Written in a quick and lively style, this book is ",
+		"auteur":"Jon Bentley",
+		"edition":"Addison-Wesley Professional; 2 edition",
+		"anneEdition":"2015-10-17",
+		"categorie":"Informatique",
+		"isbn":"201657880"
+	}, 
+	{
+		"titre":"The Algorithm Design Manual",
+		"image":"img/18.jpeg",
+		"description":"This expanded and updated second edition of a clas",
+		"auteur":"Steven S. Skiena",
+		"edition":"Springer; 2nded. 2008 edition",
+		"anneEdition":"2015-10-09",
+		"categorie":"Informatique",
+		"isbn":"1848000693"
+	}, 
+	{
+		"titre":"The C++ Standard Library: A Tutorial and Reference",
+		"image":"img/19.jpeg",
+		"description":"The C++ standard library provides a set of common ",
+		"auteur":"Nicolai M. Josuttis",
+		"edition":"Addison-Wesley Professional; 2 edition",
+		"anneEdition":"2015-11-05",
+		"categorie":"Informatique",
+		"isbn":"321623215"
+	},
+	{
+		"titre":"Professional Android 4 Application Development",
+		"image":"img/20.jpeg",
+		"description":"The fast-growing popularity of Android smartphones",
+		"auteur":"Reto Meier",
+		"edition":"Wrox; Updated edition",
+		"anneEdition":"2015-10-30",
+		"categorie":"Technologie",
+		"isbn":"1118102274"
+	},
+	
+	{
+		"titre":"Beginning Android Games",
+		"image":"img/21.jpeg",
+		"description":"Do you have an awesome idea for the next break-thr",
+		"auteur":"Mario Zechner",
+		"edition":"Apress",
+		"anneEdition":"2015-10-05",
+		"categorie":"Technologie",
+		"isbn":"1430230428"
+	}, 
+	{
+		"titre":"Learn Java for Android Development",
+		"image":"img/22.jpeg",
+		"description":"Once you complete this book, you will be ready to ",
+		"auteur":"Jeff Friesen",
+		"edition":"Apress",
+		"anneEdition":"2015-10-29",
+		"categorie":"Technologie",
+		"isbn":"1430231564"
+	}, 
+	{
+		"titre":"Nik Software Captured: The Complete Guide to Using",
+		"image":"img/23.jpeg",
+		"description":"Styled in such a way as to resemble the way photog",
+		"auteur":"Tony L. Corbell",
+		"edition":"Wiley",
+		"anneEdition":"2011-10-28",
+		"categorie":"Technologie",
+		"isbn":"111802222X"
+	},
+	{
+		"titre":"Creating HDR Photos: The Complete Guide to High Dy",
+		"image":"img/24.jpeg",
+		"description":"Best of all, you will find out how to control the ",
+		"auteur":"Harold Davis",
+		"edition":"Amphoto Books",
+		"anneEdition":"2015-07-24",
+		"categorie":"Technologie",
+		"isbn":"823085864"
+	}
+	
+]
+}
